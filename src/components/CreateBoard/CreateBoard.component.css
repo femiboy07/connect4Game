@@ -1,0 +1,21 @@
+.board-container{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+     height: 100vh;
+    width: 100vw;
+
+}
+
+
+.control-btn{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    margin-left: 15px;
+}
+
